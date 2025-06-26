@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+.Conf1{
+    margin: 50px;
+    border: 20px;
+    border-radius: 10pX;
+    color: rgb(0, 218, 69);
+    padding: 10px;
+    background-color: black;
+}
+
+.Conf2{
+    margin: 50px;
+    font-size: 35px;
+    padding: 10px;
+}
+.Conf3{
+    margin: 50px;
+    border: 20px;
+    border-radius: 10pX;
+    color: rgb(255, 0, 0);
+    padding: 10px;
+    background-color: black;
+}
+
+.Conf4{
+    margin: 50px;
+    border: 20px;
+    border-radius: 10pX;
+    color: rgb(246, 255, 0);
+    padding: 10px;
+    background-color: black;
+}
+
+.Conf5{
+    margin: 50px;
+    border: 20px;
+    border-radius: 10pX;
+    color: rgb(255, 0, 234);
+    padding: 10px;
+    background-color: black;
+}
